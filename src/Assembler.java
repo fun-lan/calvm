@@ -4,7 +4,7 @@ import java.io.*;
 import java.nio.*;
 import java.util.*;
 
-public class Compiler {
+public class Assembler {
 
     public static void main(String[] args) throws Exception {
         if (args.length < 1)

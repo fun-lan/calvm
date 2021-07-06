@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# Compile Java code.
+
+for file in src/*.java; do
+    javac $file
+done

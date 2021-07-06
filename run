@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# Run our bytecode.
+
+bc=$1
+java src/Runtime $bc
